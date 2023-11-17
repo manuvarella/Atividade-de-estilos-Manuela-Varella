@@ -1,0 +1,32 @@
+html {
+    font-size: 14px;
+   
+   
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+       
+       
+    }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #f0f0f0;
+}
+.Leao {
+    color: #ff007c; /* Alterando a cor dos links para rosa */
+    
+   
+}
+.Animal {
+    text-decoration: none;
+    color: inherit;
+}
